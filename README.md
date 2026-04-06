@@ -16,10 +16,6 @@
 - שמירת משתמש ב־LocalStorage
 - מעבר אוטומטי לפי Role (Admin / User)
 
-📄 מבוסס על:
-:contentReference[oaicite:0]{index=0}  
-:contentReference[oaicite:1]{index=1}  
-
 ---
 
 ### 🌴 צפייה בחופשות
@@ -31,9 +27,6 @@
   - חופשות פעילות
   - חופשות במעקב
 
-📄 מבוסס על:
-:contentReference[oaicite:2]{index=2}  
-
 ---
 
 ### 🛠 ממשק אדמין
@@ -42,8 +35,6 @@
 - Pagination
 - הוספה / עריכה / מחיקה של חופשות
 
-📄 מבוסס על:
-:contentReference[oaicite:3]{index=3}  
 
 ---
 
@@ -59,10 +50,6 @@
   - מחיר בטווח
   - תאריך התחלה לא בעבר
   - תאריך סיום אחרי התחלה
-
-📄 מבוסס על:
-:contentReference[oaicite:4]{index=4}  
-
 ---
 
 ### ✏️ עריכת חופשה
@@ -70,8 +57,6 @@
 - אפשרות לעדכן כולל תמונה
 - ולידציות
 
-📄 מבוסס על:
-:contentReference[oaicite:5]{index=5}  
 
 ---
 
@@ -81,9 +66,6 @@
 - הורדת נתונים כ:
   - CSV
   - Excel
-
-📄 מבוסס על:
-:contentReference[oaicite:6]{index=6}  
 
 ---
 
